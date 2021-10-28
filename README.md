@@ -25,6 +25,7 @@
   <a href = "mailto:vitorcrispim2@yahoo.com.br"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorlucascrispim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
 - 🔭 Hoje Trabalho como Analista de Suporte e busco uma oportunidade em Desenvolvimento<br>
 - 🌱 Atualmente estudo C#,Dart, HTML E CSS3<br>
 - 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
