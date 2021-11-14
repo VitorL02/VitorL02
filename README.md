@@ -29,5 +29,5 @@
 - 🔭 Hoje Trabalho como Analista de Suporte e busco uma oportunidade em Desenvolvimento<br>
 - 🌱 Atualmente estudo C#,Dart, HTML E CSS3<br>
 - 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
-- ⚡ Sou um amante de Volêi e meu esporte favorito 🏐 <br>
+- ⚡ Sou um amante de Volêi é meu esporte favorito 🏐 <br>
 
