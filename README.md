@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/vitorlucascrispim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Hoje Trabalho como Estagiario em Testes e busco uma oportunidade em Desenvolvimento<br>
+- 🔭 Hoje Trabalho como Estagiário  em Testes e busco uma oportunidade em Desenvolvimento<br>
 - 🌱 Atualmente estudo C#,Dart, HTML E CSS3<br>
 - 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
 - ⚡ Sou um amante de Volêi,é meu esporte favorito 🏐 <br>
