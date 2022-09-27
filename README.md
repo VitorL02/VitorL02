@@ -29,7 +29,7 @@
 </div>
 
 - 🔭 Hoje Trabalho como Estagiário  em Desenvolvimento de Softwares <br>
-- 🌱 Atualmente estudo JavaScript, HTML E CSS3<br>
+- 🌱 Atualmente estudo JavaScript, HTML,CSS3, Java,Spring<br>
 - 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
 - ⚡ Sou um amante de Volêi,é meu esporte favorito 🏐 <br>
 
