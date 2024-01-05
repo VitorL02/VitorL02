@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/vitorlucascrispim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Hoje Trabalho como Desenvolvedor De Softwares Junior FullStack <br>
+- 🔭 Hoje Trabalho como Desenvolvedor De Softwares FullStack <br>
 - 🌱 Atualmente estudo JavaScript, HTML,CSS3, Java,Spring<br>
 - 📫 Me contate pelo email : vitorcrispim2@yahoo.com.br ou via instragram @vitor_lucas3<br>
 - ⚡ Sou um amante de Volêi,é meu esporte favorito 🏐 <br>
